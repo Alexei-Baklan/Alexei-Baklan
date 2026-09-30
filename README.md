@@ -1,11 +1,14 @@
-## Hello there, I'm Oleksii!👋
+# Hello there, I'm Oleksii!👋
 
 > Developer & Designer & Linguistic 
 
+
 ---
 
-### About my skills 🛠️
-- 💻 **Developer:** 
+
+## About my skills 🛠️
+### Developer's skills 
+![](https://img.shields.io/badge/Basic-grey?style=plastic&logo=C%2B%2B&label=C%2B%2B&labelColor=%2300599C)
 
 
 
