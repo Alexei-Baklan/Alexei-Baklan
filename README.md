@@ -9,6 +9,7 @@
 ## About my skills 🛠️
 ### Developer's skills 
 ![](https://img.shields.io/badge/Basic-grey?style=plastic&logo=C%2B%2B&label=C%2B%2B&labelColor=%2300599C)
+![](https://img.shields.io/badge/Basic-grey?style=plastic&logo=C&label=C&labelColor=%237EA4CC)
 
 
 
