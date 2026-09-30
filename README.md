@@ -1,4 +1,4 @@
-##👋 Hello there, I'm Oleksii!
+## Hello there, I'm Oleksii!👋
 
 > Developer & Designer & Linguistic 
 
