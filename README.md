@@ -1,4 +1,7 @@
-## Hi there 👋
+##👋 Hello there, I'm Oleksii!
+
+> Developer & Designer & Linguistic 
+
 
 <!--
 **Alexei-Baklan/Alexei-Baklan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
