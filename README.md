@@ -8,8 +8,12 @@
 
 ## About my skills 🛠️
 ### Developer's skills 💻
-![](https://img.shields.io/badge/Basic-grey?style=plastic&logo=C%2B%2B&label=C%2B%2B&labelColor=%2300599C)
-
+![](https://img.shields.io/badge/Basic-grey?style=plastic&logo=C%2B%2B&logoColor=white&label=C%2B%2B&labelColor=%2300599C)
+![]()
+![]()
+![]()
+![]()
+![]()
 
 <!--
 **Alexei-Baklan/Alexei-Baklan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
