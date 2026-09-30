@@ -25,6 +25,12 @@
 #### Git
 ![](https://img.shields.io/badge/Learning-grey?style=plastic&logo=git&logoColor=white&label=Git&labelColor=%23F03C2E)
 
+### Designer's skills 🎨
+#### Sites design ✏️
+![](https://img.shields.io/badge/Basic-grey?style=plastic&logo=figma&logoColor=white&label=Figma&labelColor=%23F24E1E)
+
+
+
 
 <!--
 **Alexei-Baklan/Alexei-Baklan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
