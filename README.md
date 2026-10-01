@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/Intermediate-grey?style=plastic&logo=CSS&logoColor=white&label=CSS&labelColor=%23663399)
 ![](https://img.shields.io/badge/Learning-grey?style=plastic&logo=React&logoColor=white&label=React&labelColor=%2361DAFB)
 ![](https://img.shields.io/badge/Learning-grey?style=plastic&logo=TypeScript&logoColor=white&label=TypeScript&labelColor=%233178C6)
-#### DataBase 🛢️
+#### DataBase 💾
 ![](https://img.shields.io/badge/Intermediate-grey?style=plastic&logo=Python&logoColor=white&label=Python&labelColor=%233776AB)
 ![](https://img.shields.io/badge/Learning-grey?style=plastic&logo=mysql&logoColor=white&label=MySQL&labelColor=%234479A1)
 #### Git
