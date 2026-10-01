@@ -1,13 +1,13 @@
 # Hello there, I'm Oleksii!👋
 
-> Developer & Designer & Linguistic 
+> Developer & Designer 
 
 
 ---
 
 
 ## About my skills 🛠️
-### Developer's skills 💻
+### Developer skills 💻
 #### BackEnd 🗄️
 ![](https://img.shields.io/badge/Basic-grey?style=plastic&logo=C%2B%2B&logoColor=white&label=C%2B%2B&labelColor=%2300599C)
 ![](https://img.shields.io/badge/Basic-grey?style=plastic&logo=C&logoColor=white&label=C&labelColor=%23A8B9CC)
@@ -22,13 +22,23 @@
 #### DataBase 💾
 ![](https://img.shields.io/badge/Intermediate-grey?style=plastic&logo=Python&logoColor=white&label=Python&labelColor=%233776AB)
 ![](https://img.shields.io/badge/Learning-grey?style=plastic&logo=mysql&logoColor=white&label=MySQL&labelColor=%234479A1)
-#### Git
+#### Git 🌿
 ![](https://img.shields.io/badge/Learning-grey?style=plastic&logo=git&logoColor=white&label=Git&labelColor=%23F03C2E)
 
-### Designer's skills 🎨
+### Designer skills 🎨
 #### Sites design ✏️
 ![](https://img.shields.io/badge/Basic-grey?style=plastic&logo=figma&logoColor=white&label=Figma&labelColor=%23F24E1E)
+#### 3D design 🧊
+![](https://img.shields.io/badge/Basic-grey?style=plastic&logo=blender&logoColor=white&label=Blender&labelColor=%23E87D0D)
 
+### My Languages 📖
+![](https://img.shields.io/badge/Native-grey?style=plastic&logoColor=white&label=Ukrainian&labelColor=%230057B7%20)
+![](https://img.shields.io/badge/Native-grey?style=plastic&logoColor=white&label=Russian&labelColor=%232A9AF6%20)
+![](https://img.shields.io/badge/Intermedia-grey?style=plastic&logoColor=white&label=Germany&labelColor=%23DD0000)
+![](https://img.shields.io/badge/Intermedia-grey?style=plastic&logoColor=white&label=English&labelColor=%23012169)
+![](https://img.shields.io/badge/Basic-grey?style=plastic&logoColor=white&label=Spanish&labelColor=%23F1BF00)
+![](https://img.shields.io/badge/Beginner-grey?style=plastic&logoColor=white&label=Greek&labelColor=%230D5EAF%20)
+![](https://img.shields.io/badge/Beginner-grey?style=plastic&logoColor=white&label=Polish&labelColor=%23DC143C%20)
 
 
 
