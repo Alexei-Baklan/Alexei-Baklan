@@ -37,8 +37,8 @@
 ### My Languages 📖
 ![](https://img.shields.io/badge/Native-grey?style=plastic&logoColor=white&label=Ukrainian&labelColor=%230057B7%20)
 ![](https://img.shields.io/badge/Native-grey?style=plastic&logoColor=white&label=Russian&labelColor=%232A9AF6%20)
+![](https://img.shields.io/badge/Upper-intermediate-grey?style=plastic&logoColor=white&label=English&labelColor=%23012169)
 ![](https://img.shields.io/badge/Intermedia-grey?style=plastic&logoColor=white&label=Germany&labelColor=%23DD0000)
-![](https://img.shields.io/badge/Intermedia-grey?style=plastic&logoColor=white&label=English&labelColor=%23012169)
 ![](https://img.shields.io/badge/Basic-grey?style=plastic&logoColor=white&label=Spanish&labelColor=%23F1BF00)
 ![](https://img.shields.io/badge/Beginner-grey?style=plastic&logoColor=white&label=Greek&labelColor=%230D5EAF%20)
 ![](https://img.shields.io/badge/Beginner-grey?style=plastic&logoColor=white&label=Polish&labelColor=%23DC143C%20)
