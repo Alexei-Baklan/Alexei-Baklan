@@ -2,10 +2,10 @@
 
 > Developer & Designer 
 
-
 ---
 ## About me 🙍
-
+- 📚 I'm studying at The Zaporizhzhia Electrotechnical Professional College, majoring in Software Development.
+- 
 
 
 
@@ -25,7 +25,7 @@
 #### DataBase 💾
 ![](https://img.shields.io/badge/Intermediate-grey?style=plastic&logo=Python&logoColor=white&label=Python&labelColor=%233776AB)
 ![](https://img.shields.io/badge/Learning-grey?style=plastic&logo=mysql&logoColor=white&label=MySQL&labelColor=%234479A1)
-#### Git 🌿
+#### Tools 🔨
 ![](https://img.shields.io/badge/Learning-grey?style=plastic&logo=git&logoColor=white&label=Git&labelColor=%23F03C2E)
 
 ### Designer skills 🎨
