@@ -13,7 +13,7 @@
   <li>⚡ I like working on complicated and experimental projects.</li>
 </ul>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ТВІЙ_GITHUB_NICKNAME&show_icons=true&theme=radial" />
+<img src="https://github-readme-stats.vercel.app/api?username=Alexei-Baklan&show_icons=true&theme=radial" />
 
 <hr></hr>
 
