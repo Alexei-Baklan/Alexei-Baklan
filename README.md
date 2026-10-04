@@ -4,8 +4,10 @@
 
 ---
 ## About me 🙍
+- 💼 I've been learning development for over 5 years.
 - 📚 I'm studying at The Zaporizhzhia Electrotechnical Professional College, majoring in Software Development.
-- 
+- 🔭 I'm currently working on a special project.
+- 🌱 I’m currently learning Go, C#
 
 
 
