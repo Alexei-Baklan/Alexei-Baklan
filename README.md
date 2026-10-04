@@ -2,7 +2,7 @@
 
 > Developer & Designer 
 
-<iframe src="https://giphy.com/embed/mXnu6HiBvOckU" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/frog-mXnu6HiBvOckU">via GIPHY</a></p>
+
 
 ---
 
