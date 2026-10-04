@@ -13,7 +13,7 @@
   <li>⚡ I like working on complicated and experimental projects.</li>
 </ul>
 
----
+<hr></hr>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=007FFF&section=header&reversal=false&text=About+my+skills&textBg=false&fontColor=FFFFFF&fontSize=45&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%" /> 
 <h2>Developer skills 💻</h2>
@@ -33,13 +33,14 @@
 
 <h4>DataBase 💾</h4>
 
-![](https://img.shields.io/badge/Intermediate-grey?style=plastic&logo=Python&logoColor=white&label=Python&labelColor=%233776AB)
-![](https://img.shields.io/badge/Learning-grey?style=plastic&logo=mysql&logoColor=white&label=MySQL&labelColor=%234479A1)
+<img src="https://img.shields.io/badge/Intermediate-grey?style=plastic&logo=Python&logoColor=white&label=Python&labelColor=%233776AB" />
+<img src="https://img.shields.io/badge/Learning-grey?style=plastic&logo=mysql&logoColor=white&label=MySQL&labelColor=%234479A1" />
+
 <h4>Tools 🔨</h4>
 
 ![](https://img.shields.io/badge/Learning-grey?style=plastic&logo=git&logoColor=white&label=Git&labelColor=%23F03C2E)
 
----
+<hr></hr>
 
 <h2>Designer skills 🎨</h2>
 <h4>Sites design ✏️</h4>
@@ -49,7 +50,7 @@
 
 ![](https://img.shields.io/badge/Basic-grey?style=plastic&logo=blender&logoColor=white&label=Blender&labelColor=%23E87D0D)
 
----
+<hr></hr>
 
 <h2>My Languages 📖</h2>
 
@@ -61,7 +62,7 @@
 ![](https://img.shields.io/badge/Beginner-grey?style=plastic&logoColor=white&label=Greek&labelColor=%230D5EAF%20)
 ![](https://img.shields.io/badge/Beginner-grey?style=plastic&logoColor=white&label=Polish&labelColor=%23DC143C%20)
 
----
+<hr></hr>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header&reversal=false&text=How+to+contact+me&textBg=false&fontColor=FFFFFF&fontSize=50&fontAlign=29&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%" />
 
