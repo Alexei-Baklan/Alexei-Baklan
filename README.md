@@ -54,14 +54,14 @@
 
 <h2>My Languages 📖</h2>
 
-<img src="https://img.shields.io/badge/Native-grey?style=plastic&logoColor=white&label=Ukrainian&labelColor=%230057B7%20" />  <img src="https://img.shields.io/badge/Native-grey?style=plastic&logoColor=white&label=Russian&labelColor=%232A9AF6%20" />  <img src="https://img.shields.io/badge/Upper-intermediate-grey?style=plastic&logoColor=white&label=English&labelColor=%23012169" /><img src="https://img.shields.io/badge/Intermedia-grey?style=plastic&logoColor=white&label=Germany&labelColor=%23DD0000" />  <img src="https://img.shields.io/badge/Basic-grey?style=plastic&logoColor=white&label=Spanish&labelColor=%23F1BF00" />  <img src="https://img.shields.io/badge/Beginner-grey?style=plastic&logoColor=white&label=Greek&labelColor=%230D5EAF%20" /> <img src="https://img.shields.io/badge/Beginner-grey?style=plastic&logoColor=white&label=Polish&labelColor=%23DC143C%20" />
+<img src="https://img.shields.io/badge/Native-grey?style=plastic&logoColor=white&label=Ukrainian&labelColor=%230057B7%20" />  <img src="https://img.shields.io/badge/Native-grey?style=plastic&logoColor=white&label=Russian&labelColor=%232A9AF6%20" />  <img src="https://img.shields.io/badge/Upper-intermediate-grey?style=plastic&logoColor=white&label=English&labelColor=%23012169" />  <img src="https://img.shields.io/badge/Intermedia-grey?style=plastic&logoColor=white&label=Germany&labelColor=%23DD0000" />  <img src="https://img.shields.io/badge/Basic-grey?style=plastic&logoColor=white&label=Spanish&labelColor=%23F1BF00" />  <img src="https://img.shields.io/badge/Beginner-grey?style=plastic&logoColor=white&label=Greek&labelColor=%230D5EAF%20" /> <img src="https://img.shields.io/badge/Beginner-grey?style=plastic&logoColor=white&label=Polish&labelColor=%23DC143C%20" />
 
 <hr></hr>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=50C878&section=header&reversal=false&text=How+to+contact+me&textBg=false&fontColor=FFFFFF&fontSize=45&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%" />
 
 <a href="https://www.linkedin.com/in/alexei-baklan-5674363a9/?isSelfProfile=true"><img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-%230a66c2%20?style=for-the-badge"></a>
-
+<a href=""><img alt="Static Badge" src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge"></a>
 
 <!--
 **Alexei-Baklan/Alexei-Baklan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
