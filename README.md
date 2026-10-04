@@ -19,7 +19,7 @@
 <h2>Developer skills 💻</h2>
 <h4>BackEnd 🗄️</h4>
 
-<img src="https://img.shields.io/badge/Basic-grey?style=plastic&logo=C%2B%2B&logoColor=white&label=C%2B%2B&labelColor=%2300599C" width="50%" />
+<img src="https://img.shields.io/badge/Basic-grey?style=plastic&logo=C%2B%2B&logoColor=white&label=C%2B%2B&labelColor=%2300599C" width="20%" />
 
 ![](https://img.shields.io/badge/Basic-grey?style=plastic&logo=C%2B%2B&logoColor=white&label=C%2B%2B&labelColor=%2300599C)
 ![](https://img.shields.io/badge/Basic-grey?style=plastic&logo=C&logoColor=white&label=C&labelColor=%23A8B9CC)
