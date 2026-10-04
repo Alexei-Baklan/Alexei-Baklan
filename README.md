@@ -64,7 +64,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=50C878&section=header&reversal=false&text=How+to+contact+me&textBg=false&fontColor=FFFFFF&fontSize=45&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%" />
 
-<img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-%230a66c2%20?style=for-the-badge" href="www.linkedin.com/in/alexei-baklan-5674363a9">
+<a href="www.linkedin.com/in/alexei-baklan-5674363a9"><img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-%230a66c2%20?style=for-the-badge"></a>
 
 
 <!--
