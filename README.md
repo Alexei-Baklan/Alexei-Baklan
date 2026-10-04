@@ -2,6 +2,7 @@
 
 > Developer & Designer 
 
+<iframe src="https://giphy.com/embed/mXnu6HiBvOckU" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/frog-mXnu6HiBvOckU">via GIPHY</a></p>
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header&reversal=true&text=About+me+&textBg=false&fontColor=FFFFFF&fontSize=50&fontAlign=15&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%" />
