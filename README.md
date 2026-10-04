@@ -2,7 +2,7 @@
 
 > <p>Developer & Designer</p>
 
----
+<hr></hr>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6C3BAA&section=header&reversal=false&text=About+me&textBg=false&fontColor=FFFFFF&fontSize=45&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%" /> 
 <ul>
@@ -31,11 +31,6 @@
 
 <img src="https://img.shields.io/badge/Learning-grey?style=plastic&logo=TypeScript&logoColor=white&label=TypeScript&labelColor=%233178C6" />
 
-![](https://img.shields.io/badge/Intermediate-grey?style=plastic&logo=JavaScript&logoColor=white&label=JavaScript&labelColor=%23F7DF1E)
-![](https://img.shields.io/badge/Intermediate-grey?style=plastic&logo=HTML5&logoColor=white&label=HTML&labelColor=%23E34F26)
-![](https://img.shields.io/badge/Intermediate-grey?style=plastic&logo=CSS&logoColor=white&label=CSS&labelColor=%23663399)
-![](https://img.shields.io/badge/Learning-grey?style=plastic&logo=React&logoColor=white&label=React&labelColor=%2361DAFB)
-![](https://img.shields.io/badge/Learning-grey?style=plastic&logo=TypeScript&logoColor=white&label=TypeScript&labelColor=%233178C6)
 <h4>DataBase 💾</h4>
 
 ![](https://img.shields.io/badge/Intermediate-grey?style=plastic&logo=Python&logoColor=white&label=Python&labelColor=%233776AB)
