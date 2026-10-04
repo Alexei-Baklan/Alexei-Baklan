@@ -87,9 +87,7 @@
   <a href="https://www.linkedin.com/in/alexei-baklan-5674363a9/?isSelfProfile=true"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://x.com/Karas_ik96"><img src="https://skillicons.dev/icons?i=twitter" /></a>
   <a href=""><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</div>
-<div>
-    <a href=""><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://www.instagram.com/alexei_906?stkn=bHB3YXZ5bG82dnhm&utm_source=qr"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href=""><img src="https://skillicons.dev/icons?i=discord" /></a>
 </div>
 
