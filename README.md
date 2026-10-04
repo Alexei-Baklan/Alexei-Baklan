@@ -75,8 +75,6 @@
   <img src="https://img.shields.io/badge/Native-grey?style=flat-square&logoColor=white&label=Russian&labelColor=%232A9AF6%20" />  
   <img src="https://img.shields.io/badge/Upper intermediate-grey?style=flat-square&logoColor=white&label=English&labelColor=%23012169" />  
   <img src="https://img.shields.io/badge/Intermediate-grey?style=flat-square&logoColor=white&label=German&labelColor=%23DD0000" />  
-</div>
-<div>
   <img src="https://img.shields.io/badge/Basic-grey?style=flat-square&logoColor=white&label=Spanish&labelColor=%23F1BF00" />  
   <img src="https://img.shields.io/badge/Beginner-grey?style=flat-square&logoColor=white&label=Greek&labelColor=%230D5EAF%20" /> 
   <img src="https://img.shields.io/badge/Beginner-grey?style=flat-square&logoColor=white&label=Polish&labelColor=%23DC143C%20" />
@@ -89,7 +87,9 @@
   <a href="https://www.linkedin.com/in/alexei-baklan-5674363a9/?isSelfProfile=true"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://x.com/Karas_ik96"><img src="https://skillicons.dev/icons?i=twitter" /></a>
   <a href=""><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href=""><img src="https://skillicons.dev/icons?i=instagram" /></a>
+</div>
+<div>
+    <a href=""><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href=""><img src="https://skillicons.dev/icons?i=discord" /></a>
 </div>
 
