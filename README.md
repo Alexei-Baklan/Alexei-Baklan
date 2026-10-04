@@ -83,11 +83,12 @@
 <hr></hr>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=50C878&section=header&reversal=false&text=How+to+contact+me&textBg=false&fontColor=FFFFFF&fontSize=45&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%" />
-
-<a href="https://www.linkedin.com/in/alexei-baklan-5674363a9/?isSelfProfile=true"><img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-%230a66c2%20?style=for-the-badge"></a>
-<a href=""><img alt="Static Badge" src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge"></a>
-<a href="https://x.com/Karas_ik96"><img alt="Static Badge" src="https://img.shields.io/badge/X.COM-black?style=for-the-badge"></a>
-<a href=""><img alt="Static Badge" src="https://img.shields.io/badge/TELEGRAM-24A1DE?style=for-the-badge"></a>
+<div>
+  <a href="https://www.linkedin.com/in/alexei-baklan-5674363a9/?isSelfProfile=true"><img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-%230a66c2%20?style=for-the-badge"></a>
+  <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge"></a>
+  <a href="https://x.com/Karas_ik96"><img alt="Static Badge" src="https://img.shields.io/badge/X.COM-black?style=for-the-badge"></a>
+  <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/TELEGRAM-24A1DE?style=for-the-badge"></a>
+</div>
 
 <!--
 **Alexei-Baklan/Alexei-Baklan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
