@@ -14,7 +14,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header&reversal=false&text=About+my+skills&textBg=false&fontColor=FFFFFF&fontSize=50&fontAlign=25&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header&reversal=false&text=About+my+skills&textBg=false&fontColor=FFFFFF&fontSize=50&fontAlign=22&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%" />
 
 ### Developer skills 💻
 #### BackEnd 🗄️
