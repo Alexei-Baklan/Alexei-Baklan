@@ -29,8 +29,10 @@
 
 <img src="https://img.shields.io/badge/Intermediate-grey?style=flat-square&logo=JavaScript&logoColor=white&label=JavaScript&labelColor=%23F7DF1E" /> <img src="https://img.shields.io/badge/Intermediate-grey?style=flat-square&logo=HTML5&logoColor=white&label=HTML&labelColor=%23E34F26" />
 
-<img src="https://img.shields.io/badge/Intermediate-grey?style=flat-square&logo=CSS&logoColor=white&label=CSS&labelColor=%23663399" /> 
-<img src="https://img.shields.io/badge/Learning-grey?style=flat-square&logo=React&logoColor=white&label=React&labelColor=%2361DAFB" />
+<div>
+  <img src="https://img.shields.io/badge/Intermediate-grey?style=flat-square&logo=CSS&logoColor=white&label=CSS&labelColor=%23663399" /> 
+  <img src="https://img.shields.io/badge/Learning-grey?style=flat-square&logo=React&logoColor=white&label=React&labelColor=%2361DAFB" />
+</div>
 
 <img src="https://img.shields.io/badge/Learning-grey?style=flat-square&logo=TypeScript&logoColor=white&label=TypeScript&labelColor=%233178C6" />
 
