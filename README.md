@@ -62,7 +62,7 @@
 
 <a href="https://www.linkedin.com/in/alexei-baklan-5674363a9/?isSelfProfile=true"><img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-%230a66c2%20?style=for-the-badge"></a>
 <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge"></a>
-<a href=""><img alt="Static Badge" src="https://img.shields.io/badge/X.COM-black?style=for-the-badge"></a>
+<a href="https://x.com/Karas_ik96"><img alt="Static Badge" src="https://img.shields.io/badge/X.COM-black?style=for-the-badge"></a>
 <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/TELEGRAM-24A1DE?style=for-the-badge"></a>
 
 <!--
