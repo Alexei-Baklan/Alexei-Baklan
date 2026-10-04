@@ -53,8 +53,7 @@
 ---
 
 ## How to contact me:
-<a href="www.linkedin.com/in/alexei-baklan-5674363a9"><img src="[https://cdn.simpleicons.org/linkedin](https://cdn.simpleicons.org/linkedin/white)" width="40" height="40" alt="LinkedIn"></a>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexei-baklan-5674363a9)
 
 <!--
 **Alexei-Baklan/Alexei-Baklan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
