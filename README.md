@@ -15,6 +15,7 @@
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header&reversal=false&text=About+my+skills&textBg=false&fontColor=FFFFFF&fontSize=50&fontAlign=23&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%" /> 
+
 ### Developer skills 💻
 #### BackEnd 🗄️
 ![](https://img.shields.io/badge/Basic-grey?style=plastic&logo=C%2B%2B&logoColor=white&label=C%2B%2B&labelColor=%2300599C)
