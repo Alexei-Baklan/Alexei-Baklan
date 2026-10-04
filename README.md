@@ -88,7 +88,7 @@
   <a href="https://x.com/Karas_ik96"><img src="https://skillicons.dev/icons?i=twitter" /></a>
   <a href=""><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href=""><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href=""><img src="https://skillicons.dev/icons?i=telegram" /></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=discord" /></a>
 </div>
 
 <!--
