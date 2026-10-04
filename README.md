@@ -62,9 +62,10 @@
 
 <hr></hr>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header&reversal=false&text=How+to+contact+me&textBg=false&fontColor=FFFFFF&fontSize=50&fontAlign=29&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=50C878&section=header&reversal=false&text=How+to+contact+me&textBg=false&fontColor=FFFFFF&fontSize=45&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%" />
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2g5cTR1Y3hpMHJpc3RzNGJ3cjIzMGZob3Q5dm94anM1bjh0NXQ5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mXnu6HiBvOckU/giphy.gif" width="150px">
+<img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-%230a66c2%20?style=for-the-badge">
+
 
 <!--
 **Alexei-Baklan/Alexei-Baklan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
