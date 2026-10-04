@@ -1,6 +1,6 @@
-<h1>Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1>Hello there! I'm Oleksii! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=39F72B95&multiline=true&width=435&lines=Developer+%26+Designer" alt="Typing SVG" /></a>
+> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=39F72B95&multiline=true&width=435&lines=Developer+%26+Designer" /></a>
 
 <hr></hr>
 
