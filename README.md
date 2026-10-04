@@ -44,29 +44,41 @@
 </div>
 
 <h4>DataBase 💾</h4>
-
-<img src="https://img.shields.io/badge/Learning-grey?style=flat-square&logo=mysql&logoColor=white&label=MySQL&labelColor=%234479A1" /> <img alt="Static Badge" src="https://img.shields.io/badge/Learning-grey?style=flat-square&logo=MongoDB&logoColor=FFFFFF&label=MongoDB&labelColor=%2347A248">
+<div>
+  <img src="https://img.shields.io/badge/Learning-grey?style=flat-square&logo=mysql&logoColor=white&label=MySQL&labelColor=%234479A1" /> 
+  <img alt="Static Badge" src="https://img.shields.io/badge/Learning-grey?style=flat-square&logo=MongoDB&logoColor=FFFFFF&label=MongoDB&labelColor=%2347A248">
+</div>
 
 <h4>Tools 🔨</h4>
-
-<img src="https://img.shields.io/badge/Learning-grey?style=flat-square&logo=git&logoColor=white&label=Git&labelColor=%23F03C2E" />
+<div>
+  <img src="https://img.shields.io/badge/Learning-grey?style=flat-square&logo=git&logoColor=white&label=Git&labelColor=%23F03C2E" />
+</div>
 
 <hr></hr>
 
 <h2>Designer skills 🎨</h2>
 <h4>Sites design ✏️</h4>
-
-<img src="https://img.shields.io/badge/Basic-grey?style=flat-square&logo=figma&logoColor=white&label=Figma&labelColor=%23F24E1E" />
+<div>
+  <img src="https://img.shields.io/badge/Basic-grey?style=flat-square&logo=figma&logoColor=white&label=Figma&labelColor=%23F24E1E" />
+</div>
 
 <h4>3D design 🧊</h4>
-
-<img src="https://img.shields.io/badge/Basic-grey?style=flat-square&logo=blender&logoColor=white&label=Blender&labelColor=%23E87D0D" />
+<div>
+  <img src="https://img.shields.io/badge/Basic-grey?style=flat-square&logo=blender&logoColor=white&label=Blender&labelColor=%23E87D0D" />
+</div>
 
 <hr></hr>
 
 <h2>My Languages 📖</h2>
-
-<img src="https://img.shields.io/badge/Native-grey?style=flat-square&logoColor=white&label=Ukrainian&labelColor=%230057B7%20" />  <img src="https://img.shields.io/badge/Native-grey?style=flat-square&logoColor=white&label=Russian&labelColor=%232A9AF6%20" />  <img src="https://img.shields.io/badge/Upper intermediate-grey?style=flat-square&logoColor=white&label=English&labelColor=%23012169" />  <img src="https://img.shields.io/badge/Intermediate-grey?style=flat-square&logoColor=white&label=German&labelColor=%23DD0000" />  <img src="https://img.shields.io/badge/Basic-grey?style=flat-square&logoColor=white&label=Spanish&labelColor=%23F1BF00" />  <img src="https://img.shields.io/badge/Beginner-grey?style=flat-square&logoColor=white&label=Greek&labelColor=%230D5EAF%20" /> <img src="https://img.shields.io/badge/Beginner-grey?style=flat-square&logoColor=white&label=Polish&labelColor=%23DC143C%20" />
+<div>
+  <img src="https://img.shields.io/badge/Native-grey?style=flat-square&logoColor=white&label=Ukrainian&labelColor=%230057B7%20" />  
+  <img src="https://img.shields.io/badge/Native-grey?style=flat-square&logoColor=white&label=Russian&labelColor=%232A9AF6%20" />  
+  <img src="https://img.shields.io/badge/Upper intermediate-grey?style=flat-square&logoColor=white&label=English&labelColor=%23012169" />  
+  <img src="https://img.shields.io/badge/Intermediate-grey?style=flat-square&logoColor=white&label=German&labelColor=%23DD0000" />  
+  <img src="https://img.shields.io/badge/Basic-grey?style=flat-square&logoColor=white&label=Spanish&labelColor=%23F1BF00" />  
+  <img src="https://img.shields.io/badge/Beginner-grey?style=flat-square&logoColor=white&label=Greek&labelColor=%230D5EAF%20" /> 
+  <img src="https://img.shields.io/badge/Beginner-grey?style=flat-square&logoColor=white&label=Polish&labelColor=%23DC143C%20" />
+</div>
 
 <hr></hr>
 
