@@ -1,8 +1,6 @@
-<div>
-  <h1>Hello there, I'm Oleksii! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1>Hello there, I'm Oleksii! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 > <p>Developer & Designer</p>
-</div>
 
 <hr></hr>
 
@@ -46,22 +44,20 @@
 <h2>Designer skills 🎨</h2>
 <h4>Sites design ✏️</h4>
 
-![](https://img.shields.io/badge/Basic-grey?style=plastic&logo=figma&logoColor=white&label=Figma&labelColor=%23F24E1E)
+<img src="https://img.shields.io/badge/Basic-grey?style=plastic&logo=figma&logoColor=white&label=Figma&labelColor=%23F24E1E" />
+
 <h4>3D design 🧊</h4>
 
-![](https://img.shields.io/badge/Basic-grey?style=plastic&logo=blender&logoColor=white&label=Blender&labelColor=%23E87D0D)
+<img src="https://img.shields.io/badge/Basic-grey?style=plastic&logo=blender&logoColor=white&label=Blender&labelColor=%23E87D0D" />
 
 <hr></hr>
 
 <h2>My Languages 📖</h2>
 
-![](https://img.shields.io/badge/Native-grey?style=plastic&logoColor=white&label=Ukrainian&labelColor=%230057B7%20)
-![](https://img.shields.io/badge/Native-grey?style=plastic&logoColor=white&label=Russian&labelColor=%232A9AF6%20)
-![](https://img.shields.io/badge/Upper-intermediate-grey?style=plastic&logoColor=white&label=English&labelColor=%23012169)
-![](https://img.shields.io/badge/Intermedia-grey?style=plastic&logoColor=white&label=Germany&labelColor=%23DD0000)
-![](https://img.shields.io/badge/Basic-grey?style=plastic&logoColor=white&label=Spanish&labelColor=%23F1BF00)
-![](https://img.shields.io/badge/Beginner-grey?style=plastic&logoColor=white&label=Greek&labelColor=%230D5EAF%20)
-![](https://img.shields.io/badge/Beginner-grey?style=plastic&logoColor=white&label=Polish&labelColor=%23DC143C%20)
+<img src="https://img.shields.io/badge/Native-grey?style=plastic&logoColor=white&label=Ukrainian&labelColor=%230057B7%20" />
+<img src="https://img.shields.io/badge/Native-grey?style=plastic&logoColor=white&label=Russian&labelColor=%232A9AF6%20" /><img src="https://img.shields.io/badge/Upper-intermediate-grey?style=plastic&logoColor=white&label=English&labelColor=%23012169" />
+<img src="https://img.shields.io/badge/Intermedia-grey?style=plastic&logoColor=white&label=Germany&labelColor=%23DD0000" /><img src="https://img.shields.io/badge/Basic-grey?style=plastic&logoColor=white&label=Spanish&labelColor=%23F1BF00" />
+<img src="https://img.shields.io/badge/Beginner-grey?style=plastic&logoColor=white&label=Greek&labelColor=%230D5EAF%20" /><img src="https://img.shields.io/badge/Beginner-grey?style=plastic&logoColor=white&label=Polish&labelColor=%23DC143C%20" />
 
 <hr></hr>
 
