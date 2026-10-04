@@ -87,7 +87,7 @@
   <a href="https://www.linkedin.com/in/alexei-baklan-5674363a9/?isSelfProfile=true" src="https://skillicons.dev/icons?i=linkedin"></a>
   <a href=""><img alt="Static Badge" src="https://skillicons.dev/icons?i=gmail"></a>
   <a href="https://x.com/Karas_ik96" src="https://skillicons.dev/icons?i=twitter"></a>
-  <a href=""><img alt="Static Badge" src="https://skillicons.dev/icons?i=telegram"></a>
+  <a href=""><img alt="Static Badge" src="https://skillicons.dev/icons?i=instagram"></a>
 </div>
 
 <!--
