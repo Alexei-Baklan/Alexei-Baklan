@@ -16,7 +16,7 @@
 <hr></hr>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=007FFF&section=header&reversal=false&text=About+my+skills&textBg=false&fontColor=FFFFFF&fontSize=45&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%" /> 
-<h2>Developer skills 💻</h2>
+<h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=24&pause=1000&color=F1F5F9&vCenter=true&width=435&height=40&lines=Developer+skills+%F0%9F%92%BB" alt="Typing SVG" /></h2>
 <h4>BackEnd 🗄️</h4>
 <div>
   <img src="https://img.shields.io/badge/Basic-grey?style=flat-square&logo=C%2B%2B&logoColor=white&label=C%2B%2B&labelColor=%2300599C" /> 
