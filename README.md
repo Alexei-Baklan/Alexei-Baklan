@@ -62,6 +62,7 @@
 
 <a href="https://www.linkedin.com/in/alexei-baklan-5674363a9/?isSelfProfile=true"><img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-%230a66c2%20?style=for-the-badge"></a>
 <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge"></a>
+<a href=""><img alt="Static Badge" src="https://img.shields.io/badge/X.COM-black?style=for-the-badge"></a>
 
 <!--
 **Alexei-Baklan/Alexei-Baklan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
