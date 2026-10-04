@@ -57,17 +57,7 @@
 ---
 
 ## How to contact me:
-<p>
-  <a href="https://www.linkedin.com/in/alexei-baklan-5674363a9" target="_blank">
-    <img src="https://img.shields.io/badge/Connect-grey?style=plastic&logo=linkedin&logoColor=white&label=LinkedIn&labelColor=%230A66C2" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Contact-grey?style=plastic&logo=gmail&logoColor=white&label=Gmail&labelColor=%23EA4335" />
-  </a>
-  <a href="https://t.me/your_telegram" target="_blank">
-    <img src="https://img.shields.io/badge/Chat-grey?style=plastic&logo=telegram&logoColor=white&label=Telegram&labelColor=%2326A5E4" />
-  </a>
-</p>
+
 
 <!--
 **Alexei-Baklan/Alexei-Baklan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
