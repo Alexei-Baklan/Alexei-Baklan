@@ -1,4 +1,4 @@
-# Hello there, I'm Oleksii! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2g5cTR1Y3hpMHJpc3RzNGJ3cjIzMGZob3Q5dm94anM1bjh0NXQ5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mXnu6HiBvOckU/giphy.gif" width="150px">
+# Hello there, I'm Oleksii! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 > Developer & Designer 
 
@@ -57,6 +57,7 @@
 
 ## How to contact me:
 
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2g5cTR1Y3hpMHJpc3RzNGJ3cjIzMGZob3Q5dm94anM1bjh0NXQ5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mXnu6HiBvOckU/giphy.gif" width="150px">
 
 <!--
 **Alexei-Baklan/Alexei-Baklan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
