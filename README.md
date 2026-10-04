@@ -1,5 +1,4 @@
 <h1>Hello there, I'm Oleksii! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-
 > <p>Developer & Designer</p>
 
 ---
@@ -15,7 +14,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header&reversal=false&text=About+my+skills&textBg=false&fontColor=FFFFFF&fontSize=50&fontAlign=23&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%" /> 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6C3BAA&section=header&reversal=false&text=About+me&textBg=false&fontColor=FFFFFF&fontSize=45&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%" /> 
 
 ### Developer skills 💻
 #### BackEnd 🗄️
