@@ -4,6 +4,8 @@
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=120&section=header&text=Welcome!&fontSize=35&fontColor=ffffff" width="100%" />
+
 ## About me 🙍
 - 💼 I've been learning development for over 5 years.
 - 📚 I'm studying at The Zaporizhzhia Electrotechnical Professional College, majoring in Software Development.
@@ -33,6 +35,7 @@
 ![](https://img.shields.io/badge/Learning-grey?style=plastic&logo=mysql&logoColor=white&label=MySQL&labelColor=%234479A1)
 #### Tools 🔨
 ![](https://img.shields.io/badge/Learning-grey?style=plastic&logo=git&logoColor=white&label=Git&labelColor=%23F03C2E)
+
 ---
 
 ### Designer skills 🎨
@@ -40,6 +43,7 @@
 ![](https://img.shields.io/badge/Basic-grey?style=plastic&logo=figma&logoColor=white&label=Figma&labelColor=%23F24E1E)
 #### 3D design 🧊
 ![](https://img.shields.io/badge/Basic-grey?style=plastic&logo=blender&logoColor=white&label=Blender&labelColor=%23E87D0D)
+
 ---
 
 ### My Languages 📖
@@ -50,6 +54,7 @@
 ![](https://img.shields.io/badge/Basic-grey?style=plastic&logoColor=white&label=Spanish&labelColor=%23F1BF00)
 ![](https://img.shields.io/badge/Beginner-grey?style=plastic&logoColor=white&label=Greek&labelColor=%230D5EAF%20)
 ![](https://img.shields.io/badge/Beginner-grey?style=plastic&logoColor=white&label=Polish&labelColor=%23DC143C%20)
+
 ---
 
 ## How to contact me:
