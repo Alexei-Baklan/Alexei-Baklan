@@ -18,12 +18,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=007FFF&section=header&reversal=false&text=About+my+skills&textBg=false&fontColor=FFFFFF&fontSize=45&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%" /> 
 <h2>Developer skills 💻</h2>
 <h4>BackEnd 🗄️</h4>
-
-<img src="https://img.shields.io/badge/Basic-grey?style=flat-square&logo=C%2B%2B&logoColor=white&label=C%2B%2B&labelColor=%2300599C" /> <img src="https://img.shields.io/badge/Basic-grey?style=flat-square&logo=C&logoColor=white&label=C&labelColor=%23A8B9CC" />
-
-<img src="https://img.shields.io/badge/Learning-grey?style=flat-square&logo=Go&logoColor=white&label=Go&labelColor=%2300ADD8" /> <img src="https://img.shields.io/badge/Learning-grey?style=flat-square&logo=Node.js&logoColor=white&label=Node.js&labelColor=%235FA04E" />
-
-<img src="https://img.shields.io/badge/Intermediate-grey?style=flat-square&logo=Python&logoColor=white&label=Python&labelColor=%233776AB" /> 
+<div>
+  <img src="https://img.shields.io/badge/Basic-grey?style=flat-square&logo=C%2B%2B&logoColor=white&label=C%2B%2B&labelColor=%2300599C" /> 
+  <img src="https://img.shields.io/badge/Basic-grey?style=flat-square&logo=C&logoColor=white&label=C&labelColor=%23A8B9CC" />
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Learning-grey?style=flat-square&logo=Go&logoColor=white&label=Go&labelColor=%2300ADD8" /> 
+  <img src="https://img.shields.io/badge/Learning-grey?style=flat-square&logo=Node.js&logoColor=white&label=Node.js&labelColor=%235FA04E" />
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Intermediate-grey?style=flat-square&logo=Python&logoColor=white&label=Python&labelColor=%233776AB" /> 
+</div>
 
 <h4>FrontEnd 🌐</h4>
 <div>
