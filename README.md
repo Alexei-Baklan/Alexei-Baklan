@@ -13,9 +13,9 @@
   <li>⚡ I like working on complicated and experimental projects.</li>
 </ul>
 
-![Alexei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexei-Baklan&show_icons=true&theme=radial)
-
 <hr></hr>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=007FFF&section=header&reversal=false&text=About+my+skills&textBg=false&fontColor=FFFFFF&fontSize=45&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%" /> 
 <h2>Developer skills 💻</h2>
