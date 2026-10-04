@@ -18,18 +18,6 @@
 ## About my skills 🛠️
 ### Developer skills 💻
 #### BackEnd 🗄️
-<p>
-  <img src="https://img.shields.io/badge/Basic-grey?style=plastic&logo=C%2B%2B&logoColor=white&label=C%2B%2B&labelColor=%2300599C" />
-  <img src="https://img.shields.io/badge/Basic-grey?style=plastic&logo=C&logoColor=white&label=C&labelColor=%23A8B9CC" />
-  <img src="https://img.shields.io/badge/Learning-grey?style=plastic&logo=Go&logoColor=white&label=Go&labelColor=%2300ADD8" />
-  <img src="https://img.shields.io/badge/Learning-grey?style=plastic&logo=Node.js&logoColor=white&label=Node.js&labelColor=%235FA04E" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Basic-grey?style=plastic&logo=C%2B%2B&logoColor=white&label=C%2B%2B&labelColor=%2300599C" />
-  <img src="https://img.shields.io/badge/Basic-grey?style=plastic&logo=C&logoColor=white&label=C&labelColor=%23A8B9CC" />
-  <img src="https://img.shields.io/badge/Learning-grey?style=plastic&logo=Go&logoColor=white&label=Go&labelColor=%2300ADD8" />
-  <img src="https://img.shields.io/badge/Learning-grey?style=plastic&logo=nodedotjs&logoColor=white&label=Node.js&labelColor=%235FA04E" />
-</p>
 ![](https://img.shields.io/badge/Basic-grey?style=plastic&logo=C%2B%2B&logoColor=white&label=C%2B%2B&labelColor=%2300599C)
 ![](https://img.shields.io/badge/Basic-grey?style=plastic&logo=C&logoColor=white&label=C&labelColor=%23A8B9CC)
 ![](https://img.shields.io/badge/Learning-grey?style=plastic&logo=Go&logoColor=white&label=Go&labelColor=%2300ADD8)
