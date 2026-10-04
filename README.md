@@ -33,12 +33,11 @@
 
 <h4>DataBase 💾</h4>
 
-<img src="https://img.shields.io/badge/Intermediate-grey?style=plastic&logo=Python&logoColor=white&label=Python&labelColor=%233776AB" />
-<img src="https://img.shields.io/badge/Learning-grey?style=plastic&logo=mysql&logoColor=white&label=MySQL&labelColor=%234479A1" />
+<img src="https://img.shields.io/badge/Intermediate-grey?style=plastic&logo=Python&logoColor=white&label=Python&labelColor=%233776AB" /> <img src="https://img.shields.io/badge/Learning-grey?style=plastic&logo=mysql&logoColor=white&label=MySQL&labelColor=%234479A1" />
 
 <h4>Tools 🔨</h4>
 
-![](https://img.shields.io/badge/Learning-grey?style=plastic&logo=git&logoColor=white&label=Git&labelColor=%23F03C2E)
+<img src="https://img.shields.io/badge/Learning-grey?style=plastic&logo=git&logoColor=white&label=Git&labelColor=%23F03C2E" />
 
 <hr></hr>
 
