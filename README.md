@@ -16,8 +16,8 @@
 <hr></hr>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=007FFF&section=header&reversal=false&text=About+my+skills&textBg=false&fontColor=FFFFFF&fontSize=45&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%" /> 
-<h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=24&pause=1000&color=F1F5F9&vCenter=true&width=435&height=40&lines=Developer+skills+%F0%9F%92%BB" alt="Typing SVG" /></h2>
-<h4>BackEnd 🗄️</h4>
+<h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=24&pause=1000&color=F1F5F9&vCenter=true&width=435&height=40&lines=Developer+skills+%F0%9F%92%BB" /></h2>
+<h4><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=38BDF8&vCenter=true&width=435&height=30&lines=BackEnd+%F0%9F%97%84%EF%B8%8F" /></h4>
 <div>
   <img src="https://img.shields.io/badge/Basic-grey?style=flat-square&logo=C%2B%2B&logoColor=white&label=C%2B%2B&labelColor=%2300599C" /> 
   <img src="https://img.shields.io/badge/Basic-grey?style=flat-square&logo=C&logoColor=white&label=C&labelColor=%23A8B9CC" />
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Intermediate-grey?style=flat-square&logo=Python&logoColor=white&label=Python&labelColor=%233776AB" /> 
 </div>
 
-<h4>FrontEnd 🌐</h4>
+<h4><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=4ADE80&vCenter=true&width=435&height=30&lines=FrontEnd+%F0%9F%8C%90" /></h4>
 <div>
   <img src="https://img.shields.io/badge/Intermediate-grey?style=flat-square&logo=JavaScript&logoColor=white&label=JavaScript&labelColor=%23F7DF1E" /> 
   <img src="https://img.shields.io/badge/Intermediate-grey?style=flat-square&logo=HTML5&logoColor=white&label=HTML&labelColor=%23E34F26" />
@@ -43,33 +43,33 @@
   <img src="https://img.shields.io/badge/Learning-grey?style=flat-square&logo=TypeScript&logoColor=white&label=TypeScript&labelColor=%233178C6" />
 </div>
 
-<h4>DataBase 💾</h4>
+<h4><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=FACC15&vCenter=true&width=435&height=30&lines=DataBase+%F0%9F%92%BE" /></h4>
 <div>
   <img src="https://img.shields.io/badge/Learning-grey?style=flat-square&logo=mysql&logoColor=white&label=MySQL&labelColor=%234479A1" /> 
   <img alt="Static Badge" src="https://img.shields.io/badge/Learning-grey?style=flat-square&logo=MongoDB&logoColor=FFFFFF&label=MongoDB&labelColor=%2347A248">
 </div>
 
-<h4>Tools 🔨</h4>
+<h4><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=FB923C&vCenter=true&width=435&height=30&lines=Tools+%F0%9F%94%A8" /></h4>
 <div>
   <img src="https://img.shields.io/badge/Learning-grey?style=flat-square&logo=git&logoColor=white&label=Git&labelColor=%23F03C2E" />
 </div>
 
 <hr></hr>
 
-<h2>Designer skills 🎨</h2>
-<h4>Sites design ✏️</h4>
+<h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=24&pause=1000&color=F1F5F9&vCenter=true&width=435&height=35&lines=Designer+skills+%F0%9F%8E%A8" /></h2>
+<h4><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=F472B6&vCenter=true&width=435&height=30&lines=Sites+design+%E2%9C%8F%EF%B8%8F" /></h4>
 <div>
   <img src="https://img.shields.io/badge/Basic-grey?style=flat-square&logo=figma&logoColor=white&label=Figma&labelColor=%23F24E1E" />
 </div>
 
-<h4>3D design 🧊</h4>
+<h4><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=A78BFA&vCenter=true&width=435&height=30&lines=3D+design+%F0%9F%A7%8A" /></h4>
 <div>
   <img src="https://img.shields.io/badge/Basic-grey?style=flat-square&logo=blender&logoColor=white&label=Blender&labelColor=%23E87D0D" />
 </div>
 
 <hr></hr>
 
-<h2>My Languages 📖</h2>
+<h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=24&pause=1000&color=2DD4BF&vCenter=true&width=435&height=35&lines=My+Languages+%F0%9F%93%96"/></h2>
 <div>
   <img src="https://img.shields.io/badge/Native-grey?style=flat-square&logoColor=white&label=Ukrainian&labelColor=%230057B7%20" />  
   <img src="https://img.shields.io/badge/Native-grey?style=flat-square&logoColor=white&label=Russian&labelColor=%232A9AF6%20" />  
