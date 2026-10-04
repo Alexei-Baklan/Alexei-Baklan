@@ -85,10 +85,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=50C878&section=header&reversal=false&text=How+to+contact+me&textBg=false&fontColor=FFFFFF&fontSize=45&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%" />
 <div>
   <a href="https://www.linkedin.com/in/alexei-baklan-5674363a9/?isSelfProfile=true"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  
-  <a href=""><img alt="Static Badge" ><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  
-  <a href=""><img alt="Static Badge"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://www.linkedin.com/in/alexei-baklan-5674363a9/?isSelfProfile=true"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </div>
 
 <!--
