@@ -53,7 +53,7 @@
 ---
 
 ## How to contact me:
-<a href="www.linkedin.com/in/alexei-baklan-5674363a9"><img src="https://cdn.simpleicons.org/linkedin" width="40" height="40" alt="LinkedIn"></a>
+<a href="www.linkedin.com/in/alexei-baklan-5674363a9"><img src="[https://cdn.simpleicons.org/linkedin](https://cdn.simpleicons.org/linkedin/white)" width="40" height="40" alt="LinkedIn"></a>
 
 
 <!--
