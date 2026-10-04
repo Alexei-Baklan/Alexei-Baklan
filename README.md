@@ -14,6 +14,7 @@
 </ul>
 
 <hr></hr>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs" />
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs)](https://skillicons.dev)
 
