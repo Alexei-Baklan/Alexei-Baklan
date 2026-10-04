@@ -29,13 +29,14 @@
 
 <img src="https://img.shields.io/badge/Intermediate-grey?style=flat-square&logo=JavaScript&logoColor=white&label=JavaScript&labelColor=%23F7DF1E" /> <img src="https://img.shields.io/badge/Intermediate-grey?style=flat-square&logo=HTML5&logoColor=white&label=HTML&labelColor=%23E34F26" />
 
-<img src="https://img.shields.io/badge/Intermediate-grey?style=flat-square&logo=CSS&logoColor=white&label=CSS&labelColor=%23663399" /> <img src="https://img.shields.io/badge/Learning-grey?style=flat-square&logo=React&logoColor=white&label=React&labelColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/Intermediate-grey?style=flat-square&logo=CSS&logoColor=white&label=CSS&labelColor=%23663399" /> 
+<img src="https://img.shields.io/badge/Learning-grey?style=flat-square&logo=React&logoColor=white&label=React&labelColor=%2361DAFB" />
 
 <img src="https://img.shields.io/badge/Learning-grey?style=flat-square&logo=TypeScript&logoColor=white&label=TypeScript&labelColor=%233178C6" />
 
 <h4>DataBase 💾</h4>
 
-<img src="https://img.shields.io/badge/Learning-grey?style=flat-square&logo=mysql&logoColor=white&label=MySQL&labelColor=%234479A1" />
+<img src="https://img.shields.io/badge/Learning-grey?style=flat-square&logo=mysql&logoColor=white&label=MySQL&labelColor=%234479A1" /> <img alt="Static Badge" src="https://img.shields.io/badge/Learning-grey?style=flat-square&logo=MongoDB&logoColor=FFFFFF&label=MongoDB&labelColor=%2347A248">
 
 <h4>Tools 🔨</h4>
 
