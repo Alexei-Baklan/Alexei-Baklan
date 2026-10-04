@@ -1,6 +1,6 @@
 <h1>Hello there, I'm Oleksii! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-> Developer & Designer 
+> <p>Developer & Designer</p>
 
 ---
 
