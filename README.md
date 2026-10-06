@@ -84,11 +84,26 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=50C878&section=header&reversal=false&text=How+to+contact+me&textBg=false&fontColor=FFFFFF&fontSize=45&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%" />
 <div>
-  <a href="https://www.linkedin.com/in/alexei-baklan-5674363a9/?isSelfProfile=true"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://x.com/Karas_ik96"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href=""><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.instagram.com/alexei_906?stkn=bHB3YXZ5bG82dnhm&utm_source=qr"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href=""><img src="https://skillicons.dev/icons?i=discord" /></a>
+  <div>
+    <a href="https://www.linkedin.com/in/alexei-baklan-5674363a9/?isSelfProfile=true"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&vCenter=true&width=435&height=40&lines=linkedin.com" />
+  </div>
+  <div>
+    <a href="https://x.com/Karas_ik96"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&vCenter=true&width=435&height=40&lines=x.com" />
+  </div>
+  <div>
+    <a href=""><img src="https://skillicons.dev/icons?i=gmail" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&vCenter=true&width=435&height=40&lines=gmail.com" />
+  </div>
+  <div>
+    <a href="https://www.instagram.com/alexei_906?stkn=bHB3YXZ5bG82dnhm&utm_source=qr"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&vCenter=true&width=435&height=40&lines=instagram.com" />
+  </div>
+  <div>
+    <a href=""><img src="https://skillicons.dev/icons?i=discord" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&vCenter=true&width=435&height=40&lines=discord.com" />
+  </div>
 </div>
 
 <!--
